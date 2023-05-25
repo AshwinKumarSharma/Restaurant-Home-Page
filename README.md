@@ -1,7 +1,6 @@
 # Restaurant Home Page ![Technologies Used](https://img.shields.io/badge/Technologies-HTML%2FCSS-green)
 
-
-## Project Live Link: [Restaurant Home Page]()
+## Project Live Link: [Restaurant Home Page](https://rstaurant-home-page.netlify.app/)
 
 > by Ashwin Kumar Sharma
 
